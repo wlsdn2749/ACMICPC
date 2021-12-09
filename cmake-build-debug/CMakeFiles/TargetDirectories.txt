@@ -1,0 +1,3 @@
+/Users/jinu/Desktop/CLion Project/Acmicpc/2579: Ascending Staris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jinu/Desktop/CLion Project/Acmicpc/2579: Ascending Staris/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jinu/Desktop/CLion Project/Acmicpc/2579: Ascending Staris/cmake-build-debug/CMakeFiles/2579__Ascending_Staris.dir
